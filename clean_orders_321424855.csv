@@ -1,0 +1,14 @@
+,order_id,customer_id,order_date,country,city,category_main,items_html,total_amount,payment_status,shipping_days,coupon_used,customer_age,rating,is_returned,order_month,high_value_order,rating_for_country,status_delivery
+112,1113,8355,2025-11-01 11:45:00,Germany,Hamburg,Fashion,AirPods Pro Charging Cable,1449.26,Pending,4,SUMMER15,61,5.0,False,11,True,4.181481481481482,on time
+173,1174,4422,2025-11-06 13:25:00,USA,San Francisco,Electronics,Nike Shoes Running Socks,1407.31,Refunded,2,no coupon,33,5.0,False,11,True,4.2375,on time
+154,1155,3880,2025-11-15 08:35:00,USA,San Francisco,Sports,Nike Shoes Running Socks,1406.5,Pending,1,WELCOME10,37,5.0,False,11,True,4.2375,on time
+180,1181,9228,2025-11-13 19:35:00,Germany,Berlin,Fashion,iPhone 14 Silicone Case Screen Protector,1379.12,Refunded,3,BLACKFRIDAY,30,5.0,False,11,True,4.181481481481482,on time
+139,1140,3610,2025-11-28 15:45:00,Germany,Berlin,Sports,Blender Recipe Book,1321.64,Pending,1,WELCOME10,43,5.0,False,11,True,4.181481481481482,on time
+10,1011,6310,2025-11-11 15:05:00,Israel,Haifa,Electronics,AirPods Pro Charging Cable,1321.11,Pending,4,WELCOME10,33,5.0,False,11,True,4.334146341463415,on time
+67,1068,9318,2025-11-12 12:05:00,France,Lyon,Home,AirPods Pro Charging Cable,1260.28,Refunded,8,BLACKFRIDAY,46,5.0,False,11,True,4.183076923076924,delayed
+55,1056,2213,2025-11-28 17:05:00,France,Lyon,Fashion,Nike Shoes Running Socks,1221.43,Pending,2,BLACKFRIDAY,25,5.0,False,11,True,4.183076923076924,on time
+145,1146,6427,2025-11-06 18:05:00,Israel,Jerusalem,Sports,AirPods Pro Charging Cable,1200.21,Refunded,1,no coupon,34,5.0,False,11,True,4.334146341463415,on time
+84,1085,2501,2025-11-01 18:15:00,Israel,Jerusalem,Electronics,iPhone 14 Silicone Case Screen Protector,1185.52,Paid,3,BLACKFRIDAY,22,5.0,False,11,True,4.334146341463415,on time
+186,1187,7499,2025-11-19 20:25:00,Germany,Hamburg,Electronics,AirPods Pro Charging Cable,1180.73,Pending,8,BLACKFRIDAY,40,5.0,False,11,True,4.181481481481482,delayed
+35,1036,7547,2025-11-08 11:15:00,France,Lyon,Electronics,iPhone 14 Silicone Case Screen Protector,1173.17,Paid,3,no coupon,21,5.0,False,11,True,4.183076923076924,on time
+101,1102,7560,2025-11-18 16:05:00,USA,San Francisco,Sports,AirPods Pro Charging Cable,1125.06,Paid,6,BLACKFRIDAY,22,5.0,False,11,True,4.2375,on time
